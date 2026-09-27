@@ -23,8 +23,8 @@ To help business stakeholders identify profitability drivers, underperforming pr
 3. Built relational data model and DAX measures in Power BI
 4. Designed a 4-page interactive dashboard with slicers and drill-throughs
 
-## 📈 Key Insights
-1.Avg delivery days is 12, with on-time delivery at 93%.
-2.SP (São Paulo) state alone accounts for 46.77% of customers and the highest revenue (₹12.9M) — next closest (RJ) is far behind. This is a single-region            dependency risk.
-3.Order status: 97.89% delivered, only ~1% cancelled/other — very healthy fulfilment funnel.
+## 📈 Key Insights 
+** 1.Avg delivery days is 12, with on-time delivery at 93%
+2.SP (São Paulo) state alone accounts for 46.77% of customers and the highest revenue (₹12.9M) — next closest (RJ) is far behind. This is a single-region            dependency risk
+3.Order status: 97.89% delivered, only ~1% cancelled/other — very healthy fulfilment funnel **
 ---
